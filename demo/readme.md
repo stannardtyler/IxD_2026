@@ -6,9 +6,9 @@
 ![alttext](https://upload.wikimedia.org/wikipedia/en/1/1f/Book_Cover_Kat_Kong.gif?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original)
 
 ## Linke to the project
-
+[Project 1](https://tyl3r.xyz/IxD_2026/demo/index.html)
 
 ### Instructions
 
-This project from Art 356//MM 621 features cool stuff B) [Project 1](https://tyl3r.xyz/IxD_2026/demo/index.html)
+This project from Art 356//MM 621 features cool stuff B) 
 
